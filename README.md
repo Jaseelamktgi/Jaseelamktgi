@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseelamktgi&label=Profile%20views&color=0e75b6&style=flat" alt="jaseelamktgi" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Express, Mongodb**
+- 🌱 I’m currently learning ** Mongodb, Express, React , NodeJs**
 
 - 📫 How to reach me **jaseelamktgi@gmail.com**
 
