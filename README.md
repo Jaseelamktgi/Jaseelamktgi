@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Programming Language, Tech-Stuff**
 
+<br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +22,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaseela-parveen-k-8a9291215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaseela-parveen-k-8a9291215/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/jaseela-parveen-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/jaseela-parveen-k" height="30" width="40" /></a>
 </p>
+
+<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -29,11 +33,11 @@
   
 </div>
 
-<br>
-<br>
+<br><br>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseelamktgi&show_icons=true&locale=en&layout=compact" alt="jaseelamktgi" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseelamktgi&show_icons=true&locale=en&layout=compact" alt="jaseelamktgi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseelamktgi&show_icons=true&locale=en" alt="jaseelamktgi" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseelamktgi&show_icons=true&locale=en" alt="jaseelamktgi" /></p>
 
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelamktgi&" alt="jaseelamktgi" /></p>
