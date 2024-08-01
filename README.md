@@ -24,8 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseelamktgi&show_icons=true&locale=en" alt="jaseelamktgi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelamktgi&" alt="jaseelamktgi" /></p>
-
-<div> 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jaseelamktgi&theme=chartreuse-dark)](https://git.io/streak-stats)
-  <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/jaseelamktgi?theme=dark&font=source_code_pro&extension=null) -->
-</div>
