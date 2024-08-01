@@ -25,14 +25,15 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,python,django,flask,node,express,dart,flutter,mongodb,mysql,sqlite,firebase)](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,python,django,flask,nodejs,express,dart,flutter,mongodb,mysql,sqlite,firebase)](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
   
 </div>
 
-
+<br>
+<br>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseelamktgi&show_icons=true&locale=en&layout=compact" alt="jaseelamktgi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaseelamktgi&show_icons=true&locale=en&layout=compact" alt="jaseelamktgi" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseelamktgi&show_icons=true&locale=en" alt="jaseelamktgi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaseelamktgi&show_icons=true&locale=en" alt="jaseelamktgi" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaseelamktgi&" alt="jaseelamktgi" /></p>
