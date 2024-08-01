@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **Programming Language, Tech-Stuff**
 
-<br><br>
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +22,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/jaseela-parveen-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/jaseela-parveen-k" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
