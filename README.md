@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, Firebase, Bloc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jaseelamktgi](https://github.com/Jaseelamktgi)
+- 👨‍💻 All of my projects are available at https://github.com/Jaseelamktgi](https://github.com/Jaseelamktgi
 
 - 😉 Check my Portfolio 😁 [https://jaseelamktgi.github.io/personalWebsite-JaseelaK/)
 
