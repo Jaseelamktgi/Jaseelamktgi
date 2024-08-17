@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Jaseelamktgi
 
-- 😉 Check my Portfolio 😁 https://jaseelamktgi.github.io/personalWebsite-JaseelaK/
+- 😉 Check my Portfolio https://jaseelamktgi.github.io/portfoliosite_Jaseela_K/
 
 - 📫 How to reach me **jaseelamktgi@gmail.com**
 
