@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseelamktgi&label=Profile%20views&color=0e75b6&style=flat" alt="jaseelamktgi" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Dart, Firebase, Bloc**
+- 🌱 I’m currently learning **Flutter, Dart, Firebase, Bloc, Cubit, API Integration...**
 
 - 👨‍💻 All of my projects are available at https://github.com/Jaseelamktgi
 
