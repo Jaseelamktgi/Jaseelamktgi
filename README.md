@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Jaseelamktgi
 
-- 😉 Check my Portfolio https://jaseelamktgi.github.io/portfoliosite_Jaseela_K/
+- 😉 Check my Portfolio https://jaseela-portfolio-topaz.vercel.app/
 
 - 📫 How to reach me **jaseelamktgi@gmail.com**
 
