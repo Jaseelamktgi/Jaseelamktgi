@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaseela Parveen K</h1>
-<h3 align="center">A passionate FLUTTER DEVELOPER from Kerala, India 👩‍💻</h3>
+<h3 align="center">A passionate SOFTWARE DEVELOPER from Kerala, India 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaseelamktgi&label=Profile%20views&color=0e75b6&style=flat" alt="jaseelamktgi" /> </p>
 
